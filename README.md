@@ -1,4 +1,4 @@
-# ECE-228-Project
+# Soblev-training based neural networks (ECE-228-Project)
 This repository contains code for ECE 228 project and assignment.  
 There are three files.
 
